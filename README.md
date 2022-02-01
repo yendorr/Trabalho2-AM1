@@ -6,6 +6,6 @@ Verificação da perda de informação ao utilizar o PCA (60% de perda de inform
 
 Aplicação de 2 algotitmos não supervisionados para clusterização dos dados, K-means e aglomerative cluster
 
-Para a escola de K = 2, foi utilizado o método do cotovelo.
+Para a escolha de K = 2, foi utilizado o método do cotovelo.
 
 E o método aglomerative cluster usou apenas uma ppartição dos dados por exceder o uso da memporia.
